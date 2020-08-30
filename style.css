@@ -1,0 +1,25 @@
+.psatu{
+    background-color: red;
+    font-family: serif;
+    font-weight: 100;
+    font-size: 10px;
+}
+.pdua{
+    background-color: blue;
+    color: white;
+    font-family: serif;
+    font-size: 12px;
+}
+.ptiga{
+    background-color: white;
+    color: black;
+    font-family: monospace;
+    font-size: 14px;
+}
+.pempat{
+    background-color: grey;
+    color: black;
+    font-family: Times New Roman;
+    font-size: 14px;
+    font-weight: 700;
+}
